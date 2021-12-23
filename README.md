@@ -5,3 +5,5 @@ Fraudulent banking transactions are quite a common occurrence today. However, it
 \
 **Data**\
 The data is from https://www.kaggle.com/mlg-ulb/creditcardfraud
+https://www.kaggle.com/ealaxi/banksim1?utm_referrer=https%3A%2F%2Fwww.synthesized.io%2F
+https://www.kaggle.com/kartik2112/fraud-detection?select=fraudTrain.csv
